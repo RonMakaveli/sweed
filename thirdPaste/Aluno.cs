@@ -4,7 +4,7 @@ class Aluno
 {
     //Atributos
     public string nome;
-
+    public double nota1, nota2;
     //Métodos
 
     public double media()
