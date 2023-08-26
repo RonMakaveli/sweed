@@ -9,8 +9,8 @@ namespace thirdPaste
             //Instanciar Objeto da classe aluno
             Aluno a = new Aluno();
             a.nome = "Robert";
-            a.nota1 = "8";
-            a.nota2 = "1";
+            a.nota1 = 8;
+            a.nota2 = 8;
             a.mensagem();
         }
     }

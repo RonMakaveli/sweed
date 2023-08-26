@@ -3,7 +3,7 @@ using System;
 class Aluno
 {
     //Atributos
-    public string nome;
+    public string nome = "";
     public double nota1, nota2;
     //Métodos
 
