@@ -44,7 +44,7 @@ class Pessoa
         double obterCalculo = calculo();
         string obterSituacao = situacao(obterCalculo);
 
-        Console.WriteLine("Seu IMC é de " + obterCalculo);
-        Console.WriteLine("Seu IMC é de " + obterSituacao);
+        Console.WriteLine("Seu IMC é de " + obterCalculo.ToString("N2"));
+        Console.WriteLine("Seu IMC é de um" + obterSituacao);
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\bin\Debug\net7.0\fourthPaste.exe
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\bin\Debug\net7.0\fourthPaste.deps.json
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\bin\Debug\net7.0\fourthPaste.runtimeconfig.json
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\bin\Debug\net7.0\fourthPaste.dll
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\bin\Debug\net7.0\fourthPaste.pdb
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\fourthPaste.csproj.AssemblyReference.cache
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\fourthPaste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\fourthPaste.AssemblyInfoInputs.cache
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\fourthPaste.AssemblyInfo.cs
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\fourthPaste.csproj.CoreCompileInputs.cache
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\fourthPaste.dll
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\refint\fourthPaste.dll
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\fourthPaste.pdb
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\fourthPaste.genruntimeconfig.cache
+C:\Users\yahik\Desktop\sweed\sweed\fourthPaste\obj\Debug\net7.0\ref\fourthPaste.dll
