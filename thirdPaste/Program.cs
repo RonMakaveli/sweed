@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace thirdPaste
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Instanciar Objeto da classe aluno
+            Aluno a = new Aluno();
+            a.nome = "Robert";
+            a.nota1 = "8";
+            a.nota2 = "1";
+            a.mensagem();
+        }
+    }
+}

@@ -1,0 +1,5 @@
+C:\Users\yahik\Desktop\sweed\sweed\thirdPaste\obj\Debug\net7.0\thirdPaste.csproj.AssemblyReference.cache
+C:\Users\yahik\Desktop\sweed\sweed\thirdPaste\obj\Debug\net7.0\thirdPaste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahik\Desktop\sweed\sweed\thirdPaste\obj\Debug\net7.0\thirdPaste.AssemblyInfoInputs.cache
+C:\Users\yahik\Desktop\sweed\sweed\thirdPaste\obj\Debug\net7.0\thirdPaste.AssemblyInfo.cs
+C:\Users\yahik\Desktop\sweed\sweed\thirdPaste\obj\Debug\net7.0\thirdPaste.csproj.CoreCompileInputs.cache
