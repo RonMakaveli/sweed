@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yahik\\Desktop\\sweed\\secondPaste\\secondPaste.csproj",
+      "projectUniqueName": "C:\\Users\\yahik\\Desktop\\sweed\\sweed\\secondPaste\\secondPaste.csproj",
       "projectName": "secondPaste",
-      "projectPath": "C:\\Users\\yahik\\Desktop\\sweed\\secondPaste\\secondPaste.csproj",
+      "projectPath": "C:\\Users\\yahik\\Desktop\\sweed\\sweed\\secondPaste\\secondPaste.csproj",
       "packagesPath": "C:\\Users\\yahik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yahik\\Desktop\\sweed\\secondPaste\\obj\\",
+      "outputPath": "C:\\Users\\yahik\\Desktop\\sweed\\sweed\\secondPaste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

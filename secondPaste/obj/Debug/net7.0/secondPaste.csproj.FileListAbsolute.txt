@@ -1,0 +1,15 @@
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\secondPaste.csproj.AssemblyReference.cache
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\secondPaste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\secondPaste.AssemblyInfoInputs.cache
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\secondPaste.AssemblyInfo.cs
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\secondPaste.csproj.CoreCompileInputs.cache
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\bin\Debug\net7.0\secondPaste.exe
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\bin\Debug\net7.0\secondPaste.deps.json
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\bin\Debug\net7.0\secondPaste.runtimeconfig.json
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\bin\Debug\net7.0\secondPaste.dll
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\bin\Debug\net7.0\secondPaste.pdb
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\secondPaste.dll
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\refint\secondPaste.dll
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\secondPaste.pdb
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\secondPaste.genruntimeconfig.cache
+C:\Users\yahik\Desktop\sweed\sweed\secondPaste\obj\Debug\net7.0\ref\secondPaste.dll
